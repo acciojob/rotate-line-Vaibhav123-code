@@ -9,4 +9,4 @@ style.innerHTML = `
     to { transform: rotate(360deg); }
   }
 `;
-document.head.appendChild(style);
+document.body.appendChild(style);
